@@ -2,10 +2,13 @@
 http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/16347.ts
 
 #EXTINF:-1 tvg-id="MYtest2" tvg-name="test2" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 2
-http://tvmalaysia.cc:80/136915/136915/6729
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/683001.ts
 
 #EXTINF:-1 tvg-id="MYtest3" tvg-name="test3" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 3
-http://ktiptv.co:443/live/3671/3671/25864.m3u8
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1 tvg-id="MYtest4" tvg-name="test4" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 4
+http://5gfksa.ltd:2052/live/55667788/88776655/83311.m3u8
 
 =========================================
 🧡 ASTRO
