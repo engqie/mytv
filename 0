@@ -1,11 +1,13 @@
+#EXTM3U url-tvg="https://bit.ly/3itZsSm"
+
 #EXTINF:-1 tvg-id="MYtest" tvg-name="test" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video
 http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/16347.ts
 
 #EXTINF:-1 tvg-id="MYtest2" tvg-name="test2" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 2
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/683001.ts
+http://tvmalaysia.cc:80/136915/136915/6729
 
 #EXTINF:-1 tvg-id="MYtest3" tvg-name="test3" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 3
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+http://ktiptv.co:443/live/3671/3671/25864.m3u8
 
 #EXTINF:-1 tvg-id="MYtest4" tvg-name="test4" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 4
 http://5gfksa.ltd:2052/live/55667788/88776655/83311.m3u8
@@ -88,24 +90,26 @@ http://iptv12k.com:35461/8022022301/468985/581
 http://iptv12k.com:35461/8022022301/468985/1872
 
 =========================================
-⚽ ASTRO SPORTS
+💛 ASTRO (backup)
 =========================================
 
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena 801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ ASTRO SPORTS",ARENA (backup)
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441939
+#EXTINF:-1 tvg-id="astro awani HD" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" group-title="💛 ASTRO (backup)",Astro Awani HD
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena 801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ ASTRO SPORTS",ARENA
-http://iptv12k.com:35461/8022022301/468985/966
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/tJknz3L/Logo-Astro-Ria-HD.png" group-title="💛 ASTRO (backup)",Astro Ria HD
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000017229356&ct=17950&tsum=c4fc9360281085f55bf7f6b7da63d9b6
 
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ ASTRO SPORTS",ARENA 2
-http://iptv12k.com:35461/8022022301/468985/965
+#EXTINF:-1, tvg-id="astroceria.my" tvg-name="Astro Ceria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="💛 ASTRO (backup)", Astro Ceria
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
 
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="⚽ ASTRO SPORTS",WWE
-#EXTVLCOPT:http-referrer=iptvfreenet
-http://iptv12k.com:35461/8022022301/468985/1684
+#EXTINF:-1, tvg-id="astrocitra.my" tvg-name="Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="💛 ASTRO (backup)", Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ ASTRO SPORTS",WWE 2
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
+#EXTINF:-1, tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="💛 ASTRO (backup)", Astro Prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+
+#EXTINF:-1, tvg-id="astrowarna.my" tvg-name="Astro Warna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="💛 ASTRO (backup)", Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 
 =========================================
 🇲🇾 MALAYSIA
@@ -158,7 +162,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="111" group-title="🇲🇾 MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",SUKAN RTM
+#EXTINF:-1 tvg-id="111" group-title="🇲🇾 MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",SUKAN RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
@@ -285,6 +289,53 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" group-title="🇮🇩 INDONESIA",Antara Usee TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
+
+=========================================
+⚽ SPORTS
+=========================================
+
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena 801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA (backup)
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441939
+
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena 801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA
+http://iptv12k.com:35461/8022022301/468985/966
+
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA 2
+http://iptv12k.com:35461/8022022301/468985/965
+
+#EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="⚽ SPORTS",SPORT TV 1 [PORTUGAL]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/285911
+
+#EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="⚽ SPORTS",SPORT TV 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/302761
+
+#EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" group-title="⚽ SPORTS",SPORT TV 2 [PORTUGAL]
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161957
+
+#EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyrpq1470407606.png" group-title="⚽ SPORTS",SPORT TV 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205667
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT PREMIER LEAGUE HD
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/678029.ts
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT PREMIER LEAGUE FHD
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/694236.ts
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport La Liga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT LA LIGA
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/683001.ts
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Serie A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT SERIE A
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/678024.ts
+
+#EXTINF:-1 tvg-id="Movistar" tvg-name="Movistar La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="⚽ SPORTS",MOVISTAR LA LIGA
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="⚽ SPORTS",WWE
+#EXTVLCOPT:http-referrer=iptvfreenet
+http://iptv12k.com:35461/8022022301/468985/1684
+
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE 2" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE 2
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
 
 =========================================
 INDONESIA DAERAH
@@ -1640,3 +1691,175 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
 https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+=========================================
+🔞 ADULT
+=========================================
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",PASSION XXX
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/674118.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",HD 1
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/674119.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",N1 ADULT DREDD HD (lag)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411920.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",SD 1 (lag)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411921.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",SD 1 (lag) (backup)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411922.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",N1 ADULT HONGKONG FHD (lag)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411923.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",MIA KHALIFA FHD (lag)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411924.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",N1 ADULT FIT18 HD
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411925.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",ADULT 3 SD
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411926.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",ERO XXX FHD (lag)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411927.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",N1 ADULT BLACKED HD (lag)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411928.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",ERO XXX SD (lag)
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411929.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",BRAZZERS EUROPE FHD
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411930.ts
+
+#EXTINF:-1 tvg-id="xtraxxx" tvg-name="🔞" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.pnghttps://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",PINK CLUB 720p
+http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/67411931.ts
+
+#EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="🔞 ADULT",A3Bikini (720p)
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",ANAL
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",ASIAN
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",BIG ASS
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",BIG DICK
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",BIG TITS
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",BLONDE
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",BLOWJOB
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",BRUNETTE
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",COMPILATION
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",CUCKOLD
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",FETISH
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",GANGBANG
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",GAY
+http://cdn.adultiptv.net/gay.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",HARDCORE
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",INTERRACIAL
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",LATINA
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",LESBIAN
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",LIVE CAMS
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",MILF
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",PORNSTAR
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",POV
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",ROUGH
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",RUSSIAN
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",TEEN
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",THREESOME
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",WOMAN
+http://live.redtraffic.net/woman.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://ia601009.us.archive.org/34/items/FreeIPTV20190226V2/TVLogos/FTVMidnightSecret_466x466.png" group-title="🔞 ADULT",Fashion TV Midnite Secrets (1080p)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmonEroticSensations.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="🔞 ADULT",Filmon Erotic Sensations (480p) [Not 24/7]
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmonFetishFactory.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="🔞 ADULT",Filmon Fetish Factory (480p) [Not 24/7]
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JasminTV.lu" tvg-country="LU" tvg-language="English" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="🔞 ADULT",Jasmin TV (720p)
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w214662580_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",Miami TV Jenny Live (720p)
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",Miami TV México (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1924674763_b1896000.m3u8
+
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="🔞 ADULT",Rouge TV (720p)
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="🔞 ADULT",Visit-X TV (720p)
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxNTUxNDVf/Kaloopy_340x340.png" group-title="🔞 ADULT",Kaloopy (18+) | HD
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjAyMTNf/DarcizzleOffshore_312x312.png" group-title="🔞 ADULT",Darcizzle Offshore (18+)
+https://30a-tv.com/feeds/xodglobal/fishingoffshore.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzdf/JasminTV_880x880.png" group-title="🔞 ADULT",Jasmin TV (18+)
+http://109.71.162.112/live/sd.jasminchannel.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjI3NzZf/FTVMidnightSecret_466x466.png" group-title="🔞 ADULT",FTV Midnight Secrets (18+)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+) Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+) Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+) Jenny 2
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
