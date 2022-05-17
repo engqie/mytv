@@ -2,319 +2,170 @@
 #EXTM3U url-tvg="https://bit.ly/3itZsSm"
 #EXTM3U url-tvg="https://bit.ly/3itZsSm,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://pcccw.github.io/Ark/EPG/guide_71.xml,https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml"
 
-#EXTINF:-1 tvg-id="MYtest" tvg-name="test" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video
+#EXTINF:-1 tvg-id="MYtest" tvg-name="test" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO
 http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/16347.ts
 
-#EXTINF:-1 tvg-id="MYtest2" tvg-name="test2" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 2
+#EXTINF:-1 tvg-id="MYtest2" tvg-name="test2" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 2
 http://tvmalaysia.cc:80/136915/136915/6729
 
-#EXTINF:-1 tvg-id="MYtest3" tvg-name="test3" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 3
+#EXTINF:-1 tvg-id="MYtest3" tvg-name="test3" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 3
 http://ktiptv.co:443/live/3671/3671/25864.m3u8
 
-#EXTINF:-1 tvg-id="MYtest4" tvg-name="test4" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",Sample Video 4
+#EXTINF:-1 tvg-id="MYtest4" tvg-name="test4" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 4
 http://5gfksa.ltd:2052/live/55667788/88776655/83311.m3u8
+
+#EXTINF:-1 tvg-id="MYtest5" tvg-name="test5" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 5
+http://iptv12k.com:35461/8022022301/468985/724
 
 =========================================
 🧡 ASTRO 🧡 
 =========================================
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="🧡 ASTRO 🧡 ",AWANI
+#EXTINF:-1 tvg-id="astro awani HD" tvg-name="Astro Awani" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="🧡 ASTRO 🧡",AWANI
 http://axcestv.vip:8080/freeview/axcestv/448
 
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="🧡 ASTRO 🧡 ",OASIS
+#EXTINF:-1 tvg-id="Astrooasis.my" tvg-name="Astro Oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="🧡 ASTRO 🧡",OASIS
 http://axcestv.vip:8080/freeview/axcestv/449
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="🧡 ASTRO 🧡 ",CERIA
+#EXTINF:-1 tvg-id="Astroceria.my" tvg-name="Astro Ceria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="🧡 ASTRO 🧡",CERIA
 http://axcestv.vip:8080/freeview/axcestv/450
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="🧡 ASTRO 🧡 ",CERIA [B]
+#EXTINF:-1 tvg-id="Astroceria.my" tvg-name="Astro Ceria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="🧡 ASTRO 🧡",CERIA [B]
 http://axcestv.vip:8080/freeview/axcestv/451
 
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="🧡 ASTRO 🧡 ",PRIMA
+#EXTINF:-1 tvg-id="Astroprima.my" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="🧡 ASTRO 🧡",PRIMA
 http://axcestv.vip:8080/freeview/axcestv/452
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="🧡 ASTRO 🧡 ",RIA
+#EXTINF:-1 tvg-id="Astroria.my" tvg-name="Astro Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="🧡 ASTRO 🧡",RIA
 http://axcestv.vip:8080/freeview/axcestv/453
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="🧡 ASTRO 🧡 ",RIA [B]
+#EXTINF:-1 tvg-id="Astroria.my" tvg-name="Astro Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="🧡 ASTRO 🧡",RIA [B]
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://axcestv.vip:8080/freeview/axcestv/454
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="🧡 ASTRO 🧡 ",WARNA
+#EXTINF:-1 tvg-id="Astrowarna.my" tvg-name="Astro Warna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="🧡 ASTRO 🧡",WARNA
 http://axcestv.vip:8080/freeview/axcestv/455
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="🧡 ASTRO 🧡 ",WARNA [B]
+#EXTINF:-1 tvg-id="Astrowarna.my" tvg-name="Astro Warna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="🧡 ASTRO 🧡",WARNA [B]
 http://axcestv.vip:8080/freeview/axcestv/456
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="🧡 ASTRO 🧡 ",WARNA [C]
+#EXTINF:-1 tvg-id="Astrowarna.my" tvg-name="Astro Warna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="🧡 ASTRO 🧡",WARNA [C]
 http://axcestv.vip:8080/freeview/axcestv/457
 
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="🧡 ASTRO 🧡 ",CITRA
+#EXTINF:-1 tvg-id="Astrocitra.my" tvg-name="Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="🧡 ASTRO 🧡",CITRA
 http://axcestv.vip:8080/freeview/axcestv/458
 
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="🧡 ASTRO 🧡 ",CITRA [B]
+#EXTINF:-1 tvg-id="Astrocitra.my" tvg-name="Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="🧡 ASTRO 🧡",CITRA [B]
 http://axcestv.vip:8080/freeview/axcestv/459
 
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png"group-title="🧡 ASTRO 🧡 ",AURA
+#EXTINF:-1 tvg-id="Astroaura.my" tvg-name="Astro Aura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png"group-title="🧡 ASTRO 🧡",AURA
 http://axcestv.vip:8080/freeview/axcestv/460
 
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania" tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png"group-title="🧡 ASTRO 🧡 ",RANIA
+#EXTINF:-1 tvg-id="Astrorania.my" tvg-name="Astro Rania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png"group-title="🧡 ASTRO 🧡",RANIA
 http://axcestv.vip:8080/freeview/axcestv/461
 
-#EXTINF:-1 tvg-id="AstroBOO.my" tvg-name="Astro BOO" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="🧡 ASTRO 🧡 ",BOO
+#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO" tvg-logo="https://i2.wp.com/selebritionline.com/wp-content/uploads/2016/10/Boo-logo-BLACK-1.jpg?fit=500%2C200" group-title="🧡 ASTRO 🧡",BOO
 http://axcestv.vip:8080/freeview/axcestv/462
 
-#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡 ",TVBJ
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡",TVBJ
 http://axcestv.vip:8080/freeview/axcestv/474
 
-#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡 ",TVB CLASSIC
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡",TVB CLASSIC
 http://axcestv.vip:8080/freeview/axcestv/475
 
-#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡 ",HUA HEE TAI
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡",HUA HEE TAI
 http://axcestv.vip:8080/freeview/axcestv/476
 
-#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡 ",QUAN JIA
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡",QUAN JIA
 http://axcestv.vip:8080/freeview/axcestv/477
 
-#EXTINF:-1 tvg-id="AstroIQIYI.my" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="🧡 ASTRO 🧡 ",IQIYI
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="🧡 ASTRO 🧡",IQIYI
 http://axcestv.vip:8080/freeview/axcestv/478
 
-#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡 ",SHUANG XING
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡",SHUANG XING
 http://axcestv.vip:8080/freeview/axcestv/479
 
-#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡 ",XIAO TAI YANG
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="🧡 ASTRO 🧡",XIAO TAI YANG
 http://axcestv.vip:8080/freeview/axcestv/480
 
-#EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="🧡 ASTRO 🧡 ",AEC
+#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="🧡 ASTRO 🧡",AEC
 http://axcestv.vip:8080/freeview/axcestv/481
 
-#EXTINF:-1 tvg-id="AstroAOD.my" tvg-name="AOD 354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="🧡 ASTRO 🧡 ",AOD 354
+#EXTINF:-1 tvg-id="AstroAOD.my" tvg-name="AOD 354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="🧡 ASTRO 🧡",AOD 354
 http://axcestv.vip:8080/freeview/axcestv/482
 
-#EXTINF:-1 tvg-id="AstroCelestialMovies.my" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="🧡 ASTRO 🧡 ",CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="AstroCelestialMovies.my" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="🧡 ASTRO 🧡",CELESTIAL MOVIES
 http://axcestv.vip:8080/freeview/axcestv/483
 
-#EXTINF:-1 tvg-id="AstroCCM.my" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="🧡 ASTRO 🧡 ",CELESTIAL CHINESE
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="🧡 ASTRO 🧡",CELESTIAL CHINESE
 http://axcestv.vip:8080/freeview/axcestv/484
 
-#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png" group-title="🧡 ASTRO 🧡 ",BOLLYONE HD
-http://iptv12k.com:35461/8022022301/468985/584
+#EXTINF:-1 tvg-id="AOD 351" tvg-name="AOD 351" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png"  group-title="🧡 ASTRO 🧡",AOD 351
+http://tvmalaysia.cc:80/136915/136915/6702
 
-#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="🧡 ASTRO 🧡 ",COLORS HD
-http://iptv12k.com:35461/8022022301/468985/585
-
-=========================================
-💛 ASTRO (backup)
-=========================================
-
-#EXTINF:-1 tvg-id="astro awani HD" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" group-title="💛 ASTRO (backup)",Astro Awani HD
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:-1 tvg-id="astroria.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/tJknz3L/Logo-Astro-Ria-HD.png" group-title="💛 ASTRO (backup)",Astro Ria HD
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000017229356&ct=17950&tsum=c4fc9360281085f55bf7f6b7da63d9b6
-
-#EXTINF:-1, tvg-id="astroceria.my" tvg-name="Astro Ceria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="💛 ASTRO (backup)", Astro Ceria
-http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
-
-#EXTINF:-1, tvg-id="astrocitra.my" tvg-name="Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="💛 ASTRO (backup)", Astro Citra
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
-
-#EXTINF:-1, tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="💛 ASTRO (backup)", Astro Prima
-http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
-
-#EXTINF:-1, tvg-id="astrowarna.my" tvg-name="Astro Warna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="💛 ASTRO (backup)", Astro Warna
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
-
-=========================================
-💙 ASTRO (backup 2)
-=========================================
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png" group-title="💙 ASTRO (backup 2)",Rania
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71144
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="💙 ASTRO (backup 2)",Aura
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71145
-
-#EXTINF:-1 tvg-id="611" tvg-name="CERIA HD" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png"  group-title="💙 ASTRO (backup 2)",Ceria
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71080
-
-#EXTINF:-1 tvg-id="112" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/4Yk4xvz/awe.png"  group-title="💙 ASTRO (backup 2)",Awesome TV
-http://axcestv.vip:8080/live/freeview/axcestv/445.ts
-
-#EXTINF:-1 tvg-id="112" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/4Yk4xvz/awe.png"  group-title="💙 ASTRO (backup 2)",Awesome TV B
-http://w.nasvpn.xyz:8080/saya/saya/7856
-
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png"  group-title="💙 ASTRO (backup 2)",Ria
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://axcestv.vip:8080/live/freeview/axcestv/453.ts
-
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png"  group-title="💙 ASTRO (backup 2)",Ria (backup)
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1705
-
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png"  group-title="💙 ASTRO (backup 2)",Ria (backup 2)
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
-
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png"  group-title="💙 ASTRO (backup 2)",Ria B
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://w.nasvpn.xyz:8080/saya/saya/13343
-
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png"  group-title="💙 ASTRO (backup 2)",Citra
-http://axcestv.vip:8080/live/freeview/axcestv/458.ts
-
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png"  group-title="💙 ASTRO (backup 2)",Citra (backup)
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71146
-
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png"  group-title="💙 ASTRO (backup 2)",Citra B
-http://w.nasvpn.xyz:8080/saya/saya/13345
-
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png"  group-title="💙 ASTRO (backup 2)",Warna
-http://axcestv.vip:8080/live/freeview/axcestv/456.ts
-
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png"  group-title="💙 ASTRO (backup 2)",Warna (backup)
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
-
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png"  group-title="💙 ASTRO (backup 2)",Warna B
-http://w.nasvpn.xyz:8080/saya/saya/13344
-
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png"  group-title="💙 ASTRO (backup 2)",Prima
-http://axcestv.vip:8080/live/freeview/axcestv/452.ts
-
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png"  group-title="💙 ASTRO (backup 2)",Prima B
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71020
-
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png"  group-title="💙 ASTRO (backup 2)",Oasis
-http://axcestv.vip:8080/live/freeview/axcestv/449.ts
-
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png"  group-title="💙 ASTRO (backup 2)",Oasis B
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1701
-
-#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png"  group-title="💙 ASTRO (backup 2)",BOO
-http://axcestv.vip:8080/live/freeview/axcestv/462.ts
-
-#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png"  group-title="💙 ASTRO (backup 2)",BOO B
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1697
-
-#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png"  group-title="💙 ASTRO (backup 2)",BOO C
-https://man.playtv.workers.dev/0:/Boo2.m3u8
-
-#EXTINF:-1 tvg-id="306" tvg-name="AEC HD" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png"  group-title="💙 ASTRO (backup 2)",AEC
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1723
-
-#EXTINF:-1 tvg-id="AEC" tvg-name="AOD 351" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png"  group-title="💙 ASTRO (backup 2)",AOD 351
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1724
-
-#EXTINF:-1 tvg-id="AOD 352" tvg-name="AOD 352" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png"  group-title="💙 ASTRO (backup 2)",AOD 352
+#EXTINF:-1 tvg-id="AOD 352" tvg-name="AOD 352" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png"  group-title="🧡 ASTRO 🧡",AOD 352
 http://tvmalaysia.cc:80/449042/449042/6703
 
-#EXTINF:-1 tvg-id="AOD 353" tvg-name="AOD 353" tvg-logo="https://i.ibb.co/t3vgwMQ/RDS.png"  group-title="💙 ASTRO (backup 2)",AOD 353
+#EXTINF:-1 tvg-id="AOD 353" tvg-name="AOD 353" tvg-logo="https://i.ibb.co/t3vgwMQ/RDS.png"  group-title="🧡 ASTRO 🧡",AOD 353
 http://tvmalaysia.cc:80/449042/449042/6704
 
-#EXTINF:-1 tvg-id="AOD 354" tvg-name="AOD 354" tvg-logo="https://i.ibb.co/VqT2C9N/aod.png"  group-title="💙 ASTRO (backup 2)",AOD 354
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71050
+#EXTINF:-1 tvg-id="AOD 354" tvg-name="AOD 354" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png"  group-title="🧡 ASTRO 🧡",AOD 354
+http://tvmalaysia.cc:80/136915/136915/6705
 
-#EXTINF:-1 tvg-id="BOX OFFICE" tvg-name="BOX OFFICE" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png"  group-title="💙 ASTRO (backup 2)",Box Office
+#EXTINF:-1 tvg-id="AOD 355" tvg-name="AOD 355" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png"  group-title="🧡 ASTRO 🧡",AOD 355
+http://tvmalaysia.cc:80/136915/136915/6706
+
+#EXTINF:-1 tvg-id="Tutor PT3" tvg-name="Tutor PT3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TTV_PT3.png/revision/latest?cb=20200926104933" group-title="🧡 ASTRO 🧡",Tutor TV PT3
+http://tvmalaysia.cc:80/136915/136915/6734
+
+#EXTINF:-1 tvg-id="Tutor SPM" tvg-name="Tutor TV SPM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest?cb=20200926105027" group-title="🧡 ASTRO 🧡",Tutor TV SPM
+http://tvmalaysia.cc:80/136915/136915/6735
+
+#EXTINF:-1 tvg-id="Tutor UPSR" tvg-name="Tutor TV UPSR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/TTV_UPSR.png/revision/latest?cb=20200926105113" group-title="🧡 ASTRO 🧡",Tutor TV UPSR
+http://tvmalaysia.cc:80/136915/136915/6736
+
+#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png" group-title="🧡 ASTRO 🧡",BOLLYONE HD
 http://tvmalaysia.cc:80/449042/449042/6732
 
-#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png"  group-title="💙 ASTRO (backup 2)",Bollyone HD
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71037
+#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="🧡 ASTRO 🧡",COLORS HD (empty)
+http://tvmalaysia.cc:80/136915/136915/6769
 
-#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png"  group-title="💙 ASTRO (backup 2)",Colors Tamil
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/70135
-
-#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/C4qeeRy.png"  group-title="💙 ASTRO (backup 2)",Colors HD
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71125
-
-#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png"  group-title="💙 ASTRO (backup 2)",iQIYI HD
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71038
-
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png"  group-title="💙 ASTRO (backup 2)",IQiyi
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71038
-
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png"  group-title="💙 ASTRO (backup 2)",Celestial Movies
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1718
-
-#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png"  group-title="💙 ASTRO (backup 2)",Celestial
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1712
-
-#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/VWzPJQ4/FxC.png"  group-title="💙 ASTRO (backup 2)",Star Chinese Movies
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1715
+#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="🧡 ASTRO 🧡",COLORS TAMIL
+http://tvmalaysia.cc:80/136915/136915/6716
 
 =========================================
-🖤 ASTRO (lag)
+💛 ASTRO 💛 (backup)
 =========================================
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="🖤 ASTRO (lag)",Awani
-http://iptv12k.com:35461/8022022301/468985/724
+#EXTINF:-1 tvg-id="astro awani HD" tvg-name="Astro Awani" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="💛 ASTRO 💛 (backup)", ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="🖤 ASTRO (lag)",RIA
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="Astro Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="💛 ASTRO 💛 (backup)", RIA
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000017229356&ct=17950&tsum=c4fc9360281085f55bf7f6b7da63d9b6
 
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="🖤 ASTRO (lag)",CITRA
-http://iptv12k.com:35461/8022022301/468985/721
+#EXTINF:-1, tvg-id="astroceria.my" tvg-name="Astro Ceria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="💛 ASTRO 💛 (backup)", CERIA
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="🖤 ASTRO (lag)",WARNA
-http://iptv12k.com:35461/8022022301/468985/733
+#EXTINF:-1, tvg-id="astrocitra.my" tvg-name="Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="💛 ASTRO 💛 (backup)", CITRA
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
 
-#EXTINF:-1 tvg-id="611" tvg-name="CERIA HD" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="🖤 ASTRO (lag)",CERIA
-http://iptv12k.com:35461/8022022301/468985/730
+#EXTINF:-1, tvg-id="astroprima.my" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="💛 ASTRO 💛 (backup)", PRIMA
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
 
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="🖤 ASTRO (lag)",PRIMA
-http://iptv12k.com:35461/8022022301/468985/734
+#EXTINF:-1, tvg-id="astrowarna.my" tvg-name="Astro Warna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="💛 ASTRO 💛 (backup)", WARNA
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="🖤 ASTRO (lag)",OASIS
-http://iptv12k.com:35461/8022022301/468985/732
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="💛 ASTRO 💛 (backup)",NAURA
+http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m02000000000013743124&ct=17950&tsum=44caaaf344841c3fa4d679942c191bae
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png"group-title="🖤 ASTRO (lag)",RANIA
-http://iptv12k.com:35461/8022022301/468985/728
+#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO" tvg-logo="https://i2.wp.com/selebritionline.com/wp-content/uploads/2016/10/Boo-logo-BLACK-1.jpg?fit=500%2C200" group-title="💛 ASTRO 💛 (backup)",BOO
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4YHLf6/58T.png"group-title="🖤 ASTRO (lag)",AURA
-http://iptv12k.com:35461/8022022301/468985/3949
+#EXTINF:-1 tvg-id="Astro" tvg-name="Astro" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="💛 ASTRO 💛 (backup)",XI YUE
+http://50.7.161.82:8278/Xiyue/playlist.m3u8?tid=m02000000000017759820&ct=17981&tsum=53c29b0be7c64f104ae681714706c51a
 
-#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="🖤 ASTRO (lag)",BOO
-http://iptv12k.com:35461/8022022301/468985/722
-
-#EXTINF:-1 tvg-id="Tutor SK" tvg-name="Tutor TV SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/TTV_UPSR.png/revision/latest/scale-to-width-down/719?cb=20200926105113" group-title="🖤 ASTRO (lag)",TUTOR TV SK
-http://iptv12k.com:35461/8022022301/468985/717
-
-#EXTINF:-1 tvg-id="Tutor SMK" tvg-name="Tutor TV SMK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest/scale-to-width-down/719?cb=20200926105027" group-title="🖤 ASTRO (lag)",TUTOR TV SMK
-http://iptv12k.com:35461/8022022301/468985/716
-
-#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="🖤 ASTRO (lag)",AEC
-http://iptv12k.com:35461/8022022301/468985/709
-
-#EXTINF:-1 tvg-id="AEC" tvg-name="AOD 351" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="🖤 ASTRO (lag)",AOD 351
-http://iptv12k.com:35461/8022022301/468985/705
-
-#EXTINF:-1 tvg-id="AOD 352" tvg-name="AOD 352" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="🖤 ASTRO (lag)",AOD 352
-http://iptv12k.com:35461/8022022301/468985/704
-
-#EXTINF:-1 tvg-id="AOD 353" tvg-name="AOD 353" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="🖤 ASTRO (lag)",AOD 353
-http://iptv12k.com:35461/8022022301/468985/703
-
-#EXTINF:-1 tvg-id="AOD 354" tvg-name="AOD 354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="🖤 ASTRO (lag)",AOD 354
-http://iptv12k.com:35461/8022022301/468985/702
-
-#EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png" group-title="🖤 ASTRO (lag)",BOLLYONE
-http://iptv12k.com:35461/8022022301/468985/685
-
-#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="🖤 ASTRO (lag)",COLORS HD
-http://iptv12k.com:35461/8022022301/468985/666
-
-#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="🖤 ASTRO (lag)",COLORS TAMIL
-http://iptv12k.com:35461/8022022301/468985/665
-
-#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="🖤 ASTRO (lag)",iQIYI HD
-http://iptv12k.com:35461/8022022301/468985/709
-
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="🖤 ASTRO (lag)",iQIYI
-http://iptv12k.com:35461/8022022301/468985/708
-
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="🖤 ASTRO (lag)",CELESTIAL MOVIES
-http://iptv12k.com:35461/8022022301/468985/581
-
-#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="🖤 ASTRO (lag)",CELESTIAL CHINESE
-http://iptv12k.com:35461/8022022301/468985/1872
+#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="💛 ASTRO 💛 (backup)",AEC
+http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000016302253&ct=17975&tsum=49305fbef37ad7f136193102fbfebea
 
 =========================================
 🇲🇾 MALAYSIA
@@ -323,38 +174,33 @@ http://iptv12k.com:35461/8022022301/468985/1872
 #EXTINF:-1 tvg-id="tv1.my" tvg-name="tv1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="🇲🇾 MALAYSIA",TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-
 #EXTINF:-1 tvg-id="tv2.my" tvg-name="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="🇲🇾 MALAYSIA",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="tv3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="🇲🇾 MALAYSIA",TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-
-#EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="🇲🇾 MALAYSIA",TV6
+#EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/800px-TV6_Logo.jpg" tvg-url="" group-title="🇲🇾 MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://didik.tv/images/logotv2.png" group-title="🇲🇾 MALAYSIA",DIDIK TV KPM
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png", 8TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" group-title="🇲🇾 MALAYSIA", 8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-
 
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="tv9" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="🇲🇾 MALAYSIA",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-
-#EXTINF:-1 tvg-id="CHN" group-title="🇲🇾 MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",DRAMA SANGAT
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="🇲🇾 MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 tvg-id="110" group-title="🇲🇾 MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV OKEY
+#EXTINF:-1 tvg-id="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="🇲🇾 MALAYSIA",TV OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-id="112" group-title="🇲🇾 MALAYSIA" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/4Yk4xvz/awe.png",AWESOME TV
+#EXTINF:-1 tvg-id="112" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="🇲🇾 MALAYSIA",AWESOME TV
 http://axcestv.vip:8080/live/freeview/axcestv/635.ts
 
 #EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="🇲🇾 MALAYSIA",TV ALHIJRAH
@@ -363,18 +209,18 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="https://kuchingborneo.info/wp-content/uploads/2020/10/TVS-logo.jpg" tvg-url="" group-title="🇲🇾 MALAYSIA",TVS SARAWAK
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1 tvg-id="123" group-title="🇲🇾 MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",BERITA RTM
+#EXTINF:-1 tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="🇲🇾 MALAYSIA",BERITA RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="111" group-title="🇲🇾 MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",SUKAN RTM
+#EXTINF:-1 tvg-id="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="🇲🇾 MALAYSIA",SUKAN RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1, group-title="🇲🇾 MALAYSIA",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png", PARLIMEN MALAYSIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png" group-title="🇲🇾 MALAYSIA",PARLIMEN MALAYSIA
 https://rtmlfd01.secureswiftcontent.com/af2d10b332ec6d105ff527be54d9443a/master.m3u8
 
-#EXTINF:-1, group-title="🇲🇾 MALAYSIA" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png", TV IKIM
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png" group-title="🇲🇾 MALAYSIA",TV IKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 =========================================
@@ -499,19 +345,19 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 🇸🇬 SINGAPORE
 =========================================
 
-#EXTINF:-1 tvg-id="SINGAPORE" tvg-name="CHANNEL 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest/scale-to-width-down/719?cb=20200926105027" group-title="🇸🇬 SINGAPORE",CHANNEL 5
+#EXTINF:-1 tvg-id="channel-5" tvg-name="CHANNEL 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271020118%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=1200&Height=900&device=web_browser&subscriptions=Anonymous&segmentationTags=all" group-title="🇸🇬 SINGAPORE",CHANNEL 5
 http://axcestv.vip:8080/freeview/axcestv/644
 
-#EXTINF:-1 tvg-id="SINGAPORE" tvg-name="CHANNEL 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest/scale-to-width-down/719?cb=20200926105027" group-title="🇸🇬 SINGAPORE",CHANNEL 8
+#EXTINF:-1 tvg-id="channel-8" tvg-name="CHANNEL 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=1024&Height=1024&device=web_browser&subscriptions=Anonymous&segmentationTags=all" group-title="🇸🇬 SINGAPORE",CHANNEL 8
 http://axcestv.vip:8080/freeview/axcestv/645
 
-#EXTINF:-1 tvg-id="SINGAPORE" tvg-name="CHANNEL U" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest/scale-to-width-down/719?cb=20200926105027" group-title="🇸🇬 SINGAPORE",CHANNEL U
+#EXTINF:-1 tvg-id="channel-u" tvg-name="CHANNEL U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=1024&Height=1024&device=web_browser&subscriptions=Anonymous&segmentationTags=all" group-title="🇸🇬 SINGAPORE",CHANNEL U
 http://axcestv.vip:8080/freeview/axcestv/646
 
-#EXTINF:-1 tvg-id="SINGAPORE" tvg-name="VASANTHAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest/scale-to-width-down/719?cb=20200926105027" group-title="🇸🇬 SINGAPORE",VASANTHAM
+#EXTINF:-1 tvg-id="vasantham" tvg-name="VASANTHAM" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=1024&Height=1024&device=web_browser&subscriptions=Anonymous&segmentationTags=all" group-title="🇸🇬 SINGAPORE",VASANTHAM
 http://axcestv.vip:8080/freeview/axcestv/647
 
-#EXTINF:-1 tvg-id="SINGAPORE" tvg-name="SURIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TTV_SPM.png/revision/latest/scale-to-width-down/719?cb=20200926105027" group-title="🇸🇬 SINGAPORE",SURIA
+#EXTINF:-1 tvg-id="suria" tvg-name="SURIA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=1024&Height=1024&device=web_browser&subscriptions=Anonymous&segmentationTags=all" group-title="🇸🇬 SINGAPORE",SURIA
 http://axcestv.vip:8080/freeview/axcestv/648
 
 =========================================
@@ -527,17 +373,11 @@ http://axcestv.vip:8080/freeview/axcestv/592
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena 801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA (unimited)
 http://tvmalaysia.cc:80/449042/449042/6707
 
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena 801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA (lag)
-http://iptv12k.com:35461/8022022301/468985/966
-
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA 2
 http://axcestv.vip:8080/freeview/axcestv/593
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA 2 (unimited)
 http://tvmalaysia.cc:80/449042/449042/9028
-
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA 2 (lag)
-http://iptv12k.com:35461/8022022301/468985/965
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="⚽ SPORTS",SPORT TV 1 [PORTUGAL]
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/285911
@@ -571,10 +411,6 @@ http://axcestv.vip:8080/freeview/axcestv/619
 
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE 2" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE 2
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
-
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="⚽ SPORTS",WWE (lag)
-#EXTVLCOPT:http-referrer=iptvfreenet
-http://iptv12k.com:35461/8022022301/468985/1684
 
 =========================================
 INDONESIA DAERAH
