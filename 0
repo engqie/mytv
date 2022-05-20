@@ -1760,9 +1760,6 @@ http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/33106
 #EXTINF:-1 tvg-id="xtraxxx674119" tvg-name="🔞" tvg-logo="https://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",HD 1
 http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/674119.ts
 
-#EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="🔞 ADULT",A3Bikini (720p)
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",ANAL
 http://cdn.adultiptv.net/anal.m3u8
 
@@ -1841,47 +1838,17 @@ http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",WOMAN
 http://live.redtraffic.net/woman.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://ia601009.us.archive.org/34/items/FreeIPTV20190226V2/TVLogos/FTVMidnightSecret_466x466.png" group-title="🔞 ADULT",Fashion TV Midnite Secrets (1080p)
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",MIAMI TV JENNY LIVE
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",MIAMI TV MEXICO
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/A3Network_A3Bikini.png?raw=true" group-title="🔞 ADULT",A3BIKINI
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://ia601009.us.archive.org/34/items/FreeIPTV20190226V2/TVLogos/FTVMidnightSecret_466x466.png" group-title="🔞 ADULT",FASHION TV MIDNIGHT SECRETS  (SD)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FilmonEroticSensations.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="🔞 ADULT",Filmon Erotic Sensations (480p) [Not 24/7]
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmonFetishFactory.us" tvg-country="INT" tvg-language="English" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="🔞 ADULT",Filmon Fetish Factory (480p) [Not 24/7]
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JasminTV.lu" tvg-country="LU" tvg-language="English" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="🔞 ADULT",Jasmin TV (720p)
-http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",Miami TV (720p)
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w214662580_b2592000.m3u8
-
-#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",Miami TV Jenny Live (720p)
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",Miami TV México (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1924674763_b1896000.m3u8
-
-#EXTINF:-1 tvg-id="RougeTV.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="🔞 ADULT",Rouge TV (720p)
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="🔞 ADULT",Visit-X TV (720p)
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxNTUxNDVf/Kaloopy_340x340.png" group-title="🔞 ADULT",Kaloopy (18+) | HD
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjAyMTNf/DarcizzleOffshore_312x312.png" group-title="🔞 ADULT",Darcizzle Offshore (18+)
-https://30a-tv.com/feeds/xodglobal/fishingoffshore.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzdf/JasminTV_880x880.png" group-title="🔞 ADULT",Jasmin TV (18+)
-http://109.71.162.112/live/sd.jasminchannel.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjI3NzZf/FTVMidnightSecret_466x466.png" group-title="🔞 ADULT",FTV Midnight Secrets (18+)
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjI3NzZf/FTVMidnightSecret_466x466.png" group-title="🔞 ADULT",FASHION TV MIDNIGHT SECRETS (HD)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+)
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+) Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+) Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjE3NTNf/MiamiTV_650x650.png" group-title="🔞 ADULT",Miami TV (18+) Jenny 2
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
