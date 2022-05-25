@@ -918,6 +918,13 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsi
 #EXTINF:-1 group-title="News" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg", CCTV-4
 http://rr2.dens.tv/s/s19/index.m3u8
 
+===================================================================================
+===================================================================================
+===================================================================================
+KIDS
+===================================================================================
+===================================================================================
+===================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1032,6 +1039,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="Kids",Spacetoon TV
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TVÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢
 
+===================================================================================
+===================================================================================
+===================================================================================
+KNOWLEDGE
+===================================================================================
+===================================================================================
+===================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1139,6 +1153,13 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+===================================================================================
+===================================================================================
+===================================================================================
+LIFESTYLE
+===================================================================================
+===================================================================================
+===================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1201,6 +1222,13 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:-1  tvg-id="" group-title="Lifestyle" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2021-09/Logo%20Style%20HD%20BLANC.png",TV5 Monde Style
 http://rr1.dens.tv/h/h01/index.m3u8
 
+===================================================================================
+===================================================================================
+===================================================================================
+ENTERTAIMENT
+===================================================================================
+===================================================================================
+===================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1302,8 +1330,7 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 ===================================================================================
 ===================================================================================
 ===================================================================================
-
-
+MOVIE
 ===================================================================================
 ===================================================================================
 ===================================================================================
@@ -1522,13 +1549,20 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
-#EXTINF:-1, group-title="ANOBYZ Movies", tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/boo.png",BOO
+#EXTINF:-1 group-title="ANOBYZ Movies" tvg-logo="https://raw.githubusercontent.com/Media22/mediamuda/main/boo.png",BOO
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
 
 #EXTINF:-1 group-title="ANOBYZ Movies" tvg-logo="https://rubbyguntara.github.io/src/img/bflix.png",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
+===================================================================================
+===================================================================================
+===================================================================================
+MUSIC
+===================================================================================
+===================================================================================
+===================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1622,6 +1656,13 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="ANOBYZ Music",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
+===================================================================================
+===================================================================================
+===================================================================================
+REGELION
+===================================================================================
+===================================================================================
+===================================================================================
 
 #EXTINF:0 tvg-id="ajwa.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title="Religi",Ajwa TV HD
 http://tvn.x10.bz/xchannel/master-14.m3u8
@@ -1776,9 +1817,13 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
 https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
-=========================================
+===================================================================================
+===================================================================================
+===================================================================================
 🔞 ADULT
-=========================================
+===================================================================================
+===================================================================================
+===================================================================================
 
 #EXTINF:-1 tvg-id="x" tvg-name="🔞" tvg-logo="https://agg-llc.com/wp-content/uploads/2020/07/adults-only-sign-xxx-sign_58199-248.jpg" group-title="🔞 ADULT",BRAZZERS EUROPE
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/33140
