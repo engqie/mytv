@@ -1608,8 +1608,7 @@ http://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",LATINA
 http://cdn.adultiptv.net/latina.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png"
-group-title="🔞 ADULT",LESBIAN
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",LESBIAN
 http://cdn.adultiptv.net/lesbian.m3u8
 
 #EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",LIVE CAMS
@@ -1627,23 +1626,19 @@ http://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",ROUGH
 http://cdn.adultiptv.net/rough.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png"
-group-title="🔞 ADULT",RUSSIAN
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",RUSSIAN
 http://cdn.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png"
-group-title="🔞 ADULT",TEEN
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",TEEN
 http://cdn.adultiptv.net/teen.m3u8
 
 #EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",THREESOME
 http://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png"
-group-title="🔞 ADULT",WOMAN
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/48/Adults%21_TV_2018_logo.png" group-title="🔞 ADULT",WOMAN
 http://live.redtraffic.net/woman.m3u8
 
-#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png"
-group-title="🔞 ADULT",MIAMI TV JENNY LIVE
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",MIAMI TV JENNY LIVE
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="🔞 ADULT",MIAMI TV MEXICO
