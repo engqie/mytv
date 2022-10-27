@@ -349,44 +349,140 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142710
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA 2
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142711
 
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://lara.iptvland.nl:80/images/6954403359a9e97a1a9ec1757ea5e18e.png" group-title="⚽ SPORTS",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS PREMIUM 1
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/9.ts
+
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS PREMIUM 2
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/8.ts
+
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS PREMIUM 3
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/11.ts
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS PREMIUM 1 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/49622.ts
+
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS PREMIUM 2 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/51018.ts
+
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS PREMIUM 3 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52271.ts
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 FR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[FRANCE] BEIN SPORTS 1
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3682.ts
+
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 FR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[FRANCE] BEIN SPORTS 2
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47302.ts
+
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 FR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[FRANCE] BEIN SPORTS 3
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3680.ts
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 FR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[FRANCE] BEIN SPORTS 1 HD
+http://ipflix.click:8080/live/sq1x0qr86b/7777/5710.ts
+
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 FR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[FRANCE] BEIN SPORTS 2 HD
+http://ipflix.click:8080/live/sq1x0qr86b/7777/5709.ts
+
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 FR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[FRANCE] BEIN SPORTS 3 HD
+http://ipflix.click:8080/live/sq1x0qr86b/7777/5708.ts
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://lara.iptvland.nl:80/images/6954403359a9e97a1a9ec1757ea5e18e.png" group-title="⚽ SPORTS",[ENG] BEIN SPORTS 1
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/286388.ts
+
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://lara.iptvland.nl:80/images/8492a79c13ef3e4c30f1872d75fd8e81.png" group-title="⚽ SPORTS",[ENG] BEIN SPORTS 2
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/286389.ts
+
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 4K" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ENG] BEIN SPORTS 3
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/54352.ts
+
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ENG] BEIN SPORTS 4
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/54353.ts
+
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ENG] BEIN SPORTS 5
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/54354.ts
+
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="BEIN SPORTS 6 4K" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ENG] BEIN SPORTS 6
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/54355.ts
+
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BEIN SPORTS 7 4K" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ENG] BEIN SPORTS 7
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/54356.ts
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://lara.iptvland.nl:80/images/6954403359a9e97a1a9ec1757ea5e18e.png" group-title="⚽ SPORTS",[MY] BEIN SPORTS 1
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142722
 
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://lara.iptvland.nl:80/images/8492a79c13ef3e4c30f1872d75fd8e81.png" group-title="⚽ SPORTS",BEIN SPORTS 2
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142723
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 AR" tvg-logo="http://lara.iptvland.nl:80/images/6954403359a9e97a1a9ec1757ea5e18e.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS 1
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/58443.ts
 
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT PREMIER LEAGUE HD
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 AR" tvg-logo="http://lara.iptvland.nl:80/images/8492a79c13ef3e4c30f1872d75fd8e81.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS 2
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/58444.ts
 
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Serie A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT SERIE A
-http://axcestv.vip:8080/freeview/axcestv/604
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS 3
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/58445.ts
+
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="BEIN SPORTS 4 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS 4
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/58446.ts
+
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="BEIN SPORTS 5 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS 5
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/58447.ts
+
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="BEIN SPORTS 6 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS 6
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/58448.ts
+
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="BEIN SPORTS 7 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS 7
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/58449.ts
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Football" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT FOOTBALL
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52874.ts
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT PREMIER LEAGUE
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52299.ts
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport La Liga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT LA LIGA
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52294.ts
+
+#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Serie A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT SERIE A (OFF)
+hxxx
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 1 [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190483.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 2 [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190484.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 3 [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190485.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 4 [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190486.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 5 [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190487.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 6 [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190488.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 1 HD [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190477.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 2 HD [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190478.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 3 HD [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190479.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 4 HD [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190480.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 5 HD [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190481.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 6 HD [PORTUGAL]
+http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190482.ts
 
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142717
 
-#EXTINF:-1 tvg-id="Useesport" tvg-name="USEE SPORT 1" tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="⚽ SPORTS",USEE SPORT 1
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
-
-#EXTINF:-1 tvg-id="Useesport2" tvg-name="USEE SPORT 2" tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="⚽ SPORTS",USEE SPORT 2
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
-
-#EXTINF:-1 tvg-id="SPOTV1" tvg-name="SPOTV 1" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="⚽ SPORTS",SPOTV 1
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
-
-#EXTINF:-1 tvg-id="SPOTV1" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/qj7QXgg/Spotv-2.png" group-title="⚽ SPORTS",SPOTV 2
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png" group-title="⚽ SPORTS",MNC SPORT 1
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
-
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-name="MNC Sports 2" tvg-logo="https://static.mncnow.id/images/channel/516c7676/3afe.png" group-title="⚽ SPORTS", MNC SPORT 2
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
-
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="EUROSPORT" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1161x775:1163x773)/origin-imgresizer.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="⚽ SPORTS",EUROSPORT
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
-
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305" group-title="⚽ SPORTS",NOW SPORT 1
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE 2
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/48972.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU" group-title="⚽ SPORTS",ASTRO SUPER SPORT 1
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142712
@@ -403,85 +499,32 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142715
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kWoEUAXiaPleOZ1ievX_b7J_3uo-N7dWew&usqp=CAU" group-title="⚽ SPORTS",ASTRO SUPER SPORT 5
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142716
 
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://lara.iptvland.nl:80/images/6954403359a9e97a1a9ec1757ea5e18e.png" group-title="⚽ SPORTS",BEIN SPORTS 1
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142729
-
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://lara.iptvland.nl:80/images/6954403359a9e97a1a9ec1757ea5e18e.png" group-title="⚽ SPORTS",BEIN SPORTS 1 (copy)
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142730
-
-#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://lara.iptvland.nl:80/images/8492a79c13ef3e4c30f1872d75fd8e81.png" group-title="⚽ SPORTS",BEIN SPORTS 2
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142731
-
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT PREMIER LEAGUE HD
-http://tvmalaysia.cc:80/449042/449042/6574
-
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport La Liga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753"group-title="⚽ SPORTS",SUPERSPORT LA LIGA
-http://tvmalaysia.cc:80/449042/449042/6575
-
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Serie A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT SERIE A
-http://tvmalaysia.cc:80/449042/449042/6576
-
 #EXTINF:-1 tvg-id="SPOTV1" tvg-name="SPOTV 1" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="⚽ SPORTS",SPOTV 1
-http://tvmalaysia.cc:80/449042/449042/9033
+hxxx
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="⚽ SPORTS",SPORT TV 1 [PORTUGAL]
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/285911
+hxxx
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="⚽ SPORTS",SPORT TV 1 HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/302761
+hxxx
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" group-title="⚽ SPORTS",SPORT TV 2 [PORTUGAL]
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161957
+hxxx
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyrpq1470407606.png" group-title="⚽ SPORTS",SPORT TV 2 HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205667
-
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT PREMIER LEAGUE HD
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/678029.ts
-
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT PREMIER LEAGUE FHD
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/694236.ts
-
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport La Liga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT LA LIGA
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/683001.ts
-
-#EXTINF:-1 tvg-id="Supersport" tvg-name="Supersport Serie A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753" group-title="⚽ SPORTS",SUPERSPORT SERIE A
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/678024.ts
+hxxx
 
 #EXTINF:-1 tvg-id="Movistar" tvg-name="Movistar La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="⚽ SPORTS",MOVISTAR LA LIGA
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE 2" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE 2
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
-
-#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="⚽ SPORTS",BeIN Sport 1
-https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 3" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="⚽ SPORTS",BeIN Sport 3
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+hxxx
 
 #EXTINF:-1 tvg-id="TVRI Sport HD" tvg-name="TVRI Sport HD" tvg-url="http://www.dens.tv" tvg-logo="https://i.imgur.com/aSXmtqg.png" group-title="⚽ SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="⚽ SPORTS",FIGHT SPORTS 
-https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-ID="" tvg-name="SUKAN RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="⚽ SPORTS",SUKAN RTM  
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="⚽ SPORTS",UNIFI SPORTS 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="⚽ SPORTS",UNIFI SPORTS 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="⚽ SPORTS",USEE SPORT 1
-https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524284
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="⚽ SPORTS",USEE SPORT 2
-https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524288
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1330,6 +1373,9 @@ http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsu
 
 #EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/bflix.png" group-title="ANOBYZ Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png%22,Star" group-title="ANOBYZ Movies",Star Movies 
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142744
 
 ===================================================================================
 ===================================================================================
