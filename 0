@@ -26,7 +26,7 @@ http://iptv12k.com:35461/8022022301/468985/724
 ===================================================================================
 
 #EXTINF:-1 tvg-id="astro awani HD" tvg-name="Astro Awani" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="🧡 ASTRO 🧡",AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+http://198.16.64.10:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
 
 #EXTINF:-1 tvg-id="Astrooasis.my" tvg-name="Astro Oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="🧡 ASTRO 🧡",OASIS
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142669
@@ -206,12 +206,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5XdyY/mnctv-fix.png" group-title="🇮🇩 INDONESIA" tvg-id="MNC TV" tvg-name="MNC TV", MNC TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5XdyY/mnctv-fix.png" group-title="🇮🇩 INDONESIA" tvg-id="MNC TV" tvg-name="MNC TV",MNC TV HD
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="rcti" tvg-logo="https://i.ibb.co/4Sdj1Y5/rcti-fix.png" group-title="🇮🇩 INDONESIA", RCTI HD
+#EXTINF:-1 tvg-id="rcti" tvg-logo="https://i.ibb.co/4Sdj1Y5/rcti-fix.png" group-title="🇮🇩 INDONESIA",RCTI HD
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="🇮🇩 INDONESIA",SCTV HD
@@ -219,7 +219,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltk0Mnq/antvfix.png" group-title="🇮🇩 INDONESIA" tvg-id="antv" tvg-name="antv", ANTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltk0Mnq/antvfix.png" group-title="🇮🇩 INDONESIA" tvg-id="antv" tvg-name="antv",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="TransTV" tvg-logo="https://i.ibb.co/j86kRWK/transtvfix.png" group-title="🇮🇩 INDONESIA",Trans TV HD
@@ -230,7 +230,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HN34RCr/gtv.png" tvg-id="GTV" tvg-name="GTV"  group-title="🇮🇩 INDONESIA", GTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HN34RCr/gtv.png" tvg-id="GTV" tvg-name="GTV"  group-title="🇮🇩 INDONESIA",GTV HD
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -240,12 +240,12 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQWB94Y/inews.png" group-title="🇮🇩 INDONESIA" tvg-id="iNews" tvg-name="iNews", iNews HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQWB94Y/inews.png" group-title="🇮🇩 INDONESIA" tvg-id="iNews" tvg-name="iNews",iNews HD
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rtv.png?v=1.0.0.1" group-title="🇮🇩 INDONESIA" tvg-id="rtv" tvg-name="rtv", RTV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rtv.png?v=1.0.0.1" group-title="🇮🇩 INDONESIA" tvg-id="rtv" tvg-name="rtv",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:0 tvg-id="TVRI" tvg-name="TVRI" tvg-url="http://www.mncvision.id.E" tvg-logo="https://i.imgur.com/b5gcteI.png" group-title="🇮🇩 INDONESIA",TVRI HD
@@ -256,17 +256,17 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="mncnews" tvg-logo="https://static.mncnow.id/images/channel/7c3f54e6/fd9f.png" group-title="🇮🇩 INDONESIA", MNC NEWS HD
+#EXTINF:-1 tvg-id="mncnews" tvg-logo="https://static.mncnow.id/images/channel/7c3f54e6/fd9f.png" group-title="🇮🇩 INDONESIA",MNC NEWS HD
 https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="🇮🇩 INDONESIA", CNN INDONESIA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNxt0HNG/CNN-Indonesia.png" group-title="🇮🇩 INDONESIA",CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png?v=1.1.1.1" group-title="🇮🇩 INDONESIA" tvg-id="Kompas TV" tvg-name="Kompas TV", Kompas TV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/kompastv.png?v=1.1.1.1" group-title="🇮🇩 INDONESIA" tvg-id="Kompas TV" tvg-name="Kompas TV",Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:0 tvg-id="BeritaSatuNewsChannel.id" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/bs.png" group-title="🇮🇩 INDONESIA",Berita Satu HD
@@ -283,15 +283,15 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="🇮🇩 INDONESIA", Jak TV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="🇮🇩 INDONESIA",Jak TV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="🇮🇩 INDONESIA", JTV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="🇮🇩 INDONESIA",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/rrinet.png" group-title="🇮🇩 INDONESIA", RRI NET
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/rrinet.png" group-title="🇮🇩 INDONESIA",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -351,6 +351,15 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142710
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Arena 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="⚽ SPORTS",ARENA 2
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142711
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[UK] BEIN SPORTS 1 HD
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/49226.ts
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[UK] BEIN SPORTS 2 HD
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/49225.ts
+
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[UK] BEIN SPORTS 3 HD
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/49224.ts
 
 #EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 AR" tvg-logo="https://www.pngitem.com/pimgs/m/623-6235108_bein-sports-logo-png-transparent-png.png" group-title="⚽ SPORTS",[ARAB] BEIN SPORTS PREMIUM 1
 http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/9.ts
@@ -446,22 +455,22 @@ http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52294.ts
 hxxx
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 1 [PORTUGAL]
-http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190483.ts
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/107495.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 2 [PORTUGAL]
-http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190484.ts
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/107494.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 3 [PORTUGAL]
-http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190485.ts
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/107493.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 4 [PORTUGAL]
-http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190486.ts
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/107492.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 5 [PORTUGAL]
-http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190487.ts
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/107491.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 6 [PORTUGAL]
-http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190488.ts
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/107490.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="⚽ SPORTS",ELEVEN 1 HD [PORTUGAL]
 http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190477.ts
@@ -484,8 +493,8 @@ http://panel.bosstv.live:8080/live/bestsadsadsaxd7171/TLWHasdasdaYWf/190482.ts
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142717
 
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE 2
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/48972.ts
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="⚽ SPORTS",WWE LIVE [HD]
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/164032.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU" group-title="⚽ SPORTS",ASTRO SUPER SPORT 1
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142712
@@ -506,19 +515,19 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142716
 hxxx
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="⚽ SPORTS",SPORT TV 1 [PORTUGAL]
-hxxx
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/148671.ts
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png" group-title="⚽ SPORTS",SPORT TV 1 HD
-hxxx
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/118447.ts
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" group-title="⚽ SPORTS",SPORT TV 2 [PORTUGAL]
-hxxx
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/148670.ts
 
 #EXTINF:-1 tvg-id="Sport tv" tvg-name="Sport Tv 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpyrpq1470407606.png" group-title="⚽ SPORTS",SPORT TV 2 HD
-hxxx
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/118446.ts
 
 #EXTINF:-1 tvg-id="Movistar" tvg-name="Movistar La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="⚽ SPORTS",MOVISTAR LA LIGA
-hxxx
+http://line.protv.cc/live/jkdeGKK3uw/W7296Cdnya/107564.ts
 
 #EXTINF:-1 tvg-id="TVRI Sport HD" tvg-name="TVRI Sport HD" tvg-url="http://www.dens.tv" tvg-logo="https://i.imgur.com/aSXmtqg.png" group-title="⚽ SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
