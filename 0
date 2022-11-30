@@ -142,16 +142,16 @@ https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142697
 ===================================================================================
 
 #EXTINF:-1 tvg-id="tv1.my" tvg-name="tv1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="🇲🇾 MALAYSIA",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-id="tv2.my" tvg-name="tv2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="🇲🇾 MALAYSIA",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="tv3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="🇲🇾 MALAYSIA",TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/800px-TV6_Logo.jpg" tvg-url="" group-title="🇲🇾 MALAYSIA",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://didik.tv/images/logotv2.png" group-title="🇲🇾 MALAYSIA",DIDIK TV KPM
 #EXTVLCOPT:http-referrer=https://dailymotion.com
@@ -168,7 +168,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 #EXTINF:-1 tvg-id="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="🇲🇾 MALAYSIA",TV OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-id="112" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="🇲🇾 MALAYSIA",AWESOME TV
 http://axcestv.vip:8080/live/freeview/axcestv/635.ts
@@ -181,17 +181,17 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="🇲🇾 MALAYSIA",BERITA RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-id="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347" group-title="🇲🇾 MALAYSIA",SUKAN RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png" group-title="🇲🇾 MALAYSIA",DEWAN RAKYAT MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1200px-Parliament_Of_Malaysia.svg.png" group-title="🇲🇾 MALAYSIA",PARLIMEN MALAYSIA
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2496000_slENG.m3u8?id=4
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png" group-title="🇲🇾 MALAYSIA",TV IKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
