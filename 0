@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="869" tvg-name="NASIONAL FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg" tvg-url="" group-title="TOP TEST",NASIONAL FM
 https://22243.live.streamtheworld.com/NASIONAL_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&dist=triton-web&tdsdk=js-2.9&swm=false&banners=300x250&burst-time=15&sbmid=a4fe102f-ff98-45ed-b8a8-da2cef043990
 
+#EXTINF:-1 tvg-id="869" tvg-name="TRAXX FM" tvg-country="MY" tvg-language="MALAY" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg" tvg-url="" group-title="TOP TEST",TRAXX FM
+https://22243.live.streamtheworld.com/TRAXX_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&dist=triton-web&tdsdk=js-2.9&swm=false&banners=300x250&burst-time=15&sbmid=b0ca528a-07b5-4a31-95df-85119c801846
+
 #EXTINF:-1 tvg-id="MYtest" tvg-name="test" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO
 http://ktiptv.co:443/live/3671/3671/25864.m3u8
 
